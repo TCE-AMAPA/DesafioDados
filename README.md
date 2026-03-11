@@ -27,7 +27,7 @@ Uma pipeline simples de ETL (Extract, Transform, Load) utilizando Python, consum
 5. **Versionamento e Entrega:**
 	- Inicializar um repositório local utilizando Git.
 	- Commits semânticos para o código-fonte desenvolvido, arquivos de configuração (requirements.txt, docker-compose.yml).
-	- Efetuar o envio (push) do código para o repositório remoto.
+	- Efetuar o envio (push) do código para o repositório remoto **em uma branch diferente da main**.
 
 ```mermaid
 flowchart TB
