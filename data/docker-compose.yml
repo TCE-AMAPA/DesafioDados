@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   db_local:
-    image: postgres:15
+    image: postgres:17-alpine
     container_name: DB-postgreSql
     environment:
       POSTGRES_USER: usuario_teste
